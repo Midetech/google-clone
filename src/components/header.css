@@ -1,0 +1,25 @@
+.navigation{
+  display: flex;
+  float: right;
+  
+}
+
+.nav-links{
+  display: flex;
+  list-style: none;
+  
+}
+a{
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+  margin-right: 2rem;
+}
+
+.app-icon{
+  margin-top: .5rem;
+  margin-right: 2rem;
+}
+
+.pic-icon{
+  margin-top: .5rem;
+}
